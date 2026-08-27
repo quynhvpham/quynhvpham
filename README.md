@@ -20,6 +20,7 @@ Looking for junior and mid-level Healthcare Data Analyst or Claim Analyst (I can
 
 ## 📫 Reach me
 
-Add your LinkedIn / email link here.
+Linkedin: #https://www.linkedin.com/in/quynh-phamvn0410/
+Email: phamquynha2@gmail.com
 
 ---
