@@ -10,9 +10,9 @@ Healthcare Data Analyst turned aspiring Data/Analytics Engineer, based in the Ho
 
 ## 🚧 Featured Projects
 
-- **[Claim Denial Analytics Pipeline](https://github.com/quynhvpham/sql-data-warehouse-DEproject#)** — End-to-end T-SQL pipeline (star schema, data cleaning, window functions) with a Power BI reporting layer, built on real claims-style data.
-- **[ED Wait Time Optimization](#)** — PostgreSQL analysis of the CDC NHAMCS emergency department dataset, from data acquisition through cleaning and EDA.
-- **[SQL Data Warehouse Analytics](#)** — Practice project covering exploratory, ranking, trend, segmentation, and cumulative SQL analysis, packaged into reusable reporting views.
+- **[Claim Denial Analytics Pipeline](https://github.com/quynhvpham/claims-denial-analytics#)** — End-to-end T-SQL pipeline (star schema, data cleaning, window functions) with a Power BI reporting layer, built on real claims-style data.
+- **[Data Warehouse - Data Engineer Project](https://github.com/quynhvpham/sql-data-warehouse-DEproject#)** — End to end T-SQL building data warehouse to generating actionable insight (data cleaning, T-SQL pipeline, data warehouse and analytics solution)
+- **[SQL Data Warehouse Analytics](https://github.com/quynhvpham/data-analytics-project-warehouse#)** — Practice project covering exploratory, ranking, trend, segmentation, and cumulative SQL analysis, packaged into reusable reporting views.
 
 ## 🎯 Currently
 
