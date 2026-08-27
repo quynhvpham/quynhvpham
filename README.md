@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Quynh or Kewpie(QP)👋
 
-<!--
-**quynhvpham/quynhvpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Healthcare Data Analyst turned aspiring Data/Analytics Engineer, based in the Houston, TX area.
 
-Here are some ideas to get you started:
+- 🏥 Background in insurance claims processing and revenue cycle management (RCM)
+- 🎓 Pursuing an M.S. in Computer Science at Texas A&M (Dec 2026)
+- 📊 Focused on healthcare data analytics: denial analytics, claims processing, revenue cycle reporting
+- 🔧 Tools: T-SQL (SQL Server), PostgreSQL, Power BI, DAX, Python, VS Code
+- 📈 Achieved a 30% claim denial rate reduction through SQL root-cause analysis (professional work)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Featured Projects
+
+- **[Claim Denial Analytics Pipeline](#)** — End-to-end T-SQL pipeline (star schema, data cleaning, window functions) with a Power BI reporting layer, built on real claims-style data.
+- **[ED Wait Time Optimization](#)** — PostgreSQL analysis of the CDC NHAMCS emergency department dataset, from data acquisition through cleaning and EDA.
+- **[SQL Data Warehouse Analytics](#)** — Practice project covering exploratory, ranking, trend, segmentation, and cumulative SQL analysis, packaged into reusable reporting views.
+
+## 🎯 Currently
+
+Looking for junior and mid-level Healthcare Data Analyst or Claim Analyst (I can relocate to anywhere in the US)
+
+## 📫 Reach me
+
+Add your LinkedIn / email link here.
+
+---
